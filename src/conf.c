@@ -29,6 +29,7 @@
 
 #include <utils/Log.h>
 #include <string.h>
+#include <stdio.h>
 #include "bt_vendor_brcm.h"
 
 /******************************************************************************

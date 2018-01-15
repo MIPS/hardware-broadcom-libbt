@@ -41,6 +41,7 @@ endif
 
 LOCAL_SHARED_LIBRARIES := \
         libcutils \
+        libutils \
         liblog
 
 LOCAL_MODULE := libbt-vendor
